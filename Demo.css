@@ -1,0 +1,33 @@
+div{
+    border: 2pt solid black;
+}
+turbo {
+    background-color: red;
+}
+div {
+    background-color: bisque ;
+    border : 2pt solid black;
+    padding: 10pt;
+    margin-bottom: 5mm;
+    text-align: center;
+}
+.turbo{
+    background-color: blueviolet;
+    color: yellow;
+}
+#d1 {
+    background-color: chartreuse;
+    margin-left: 10%;
+    margin-right: 20%;
+}
+#d7 {
+    margin-left: 10%;
+    margin-right: 20%;
+}
+.myButton {
+    color: yellowgreen;
+    background-color: darkred;
+    margin-right: 20%;
+    margin-left: 40%;
+    border-radius: 10;
+}
